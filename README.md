@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on web stuff! Especially cool design stuff, I like doing funky stuff with Three.js, if you've got a cool project idea I'd love to be a part of it.
 - 📫 You can reach me at my
   - Email - masemmiguel@gmail.com
-  - LinkedIn - https://www.linkedin.com/in/msandlerespinosa/
+  - LinkedIn - https://www.linkedin.com/in/msandlerespinosa
   - Website - https://www.miguels-dev.studio
