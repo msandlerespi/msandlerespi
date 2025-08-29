@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Miguel Sandler-Espinosa!
-- 👀 I’m interested in Interactive Web Design, but I am at a turning point and am excited to begin learning new things, especially ML and NLP.
-- 🌱 I’m currently learning Algorithms and SQL at UMass Amherst.
-- 💞️ I’m looking to collaborate on web stuff! Especially cool design stuff, I like doing funky stuff with Three.js, if you've got a cool project idea I'd love to be a part of it.
-- 📫 You can reach me at my
-  - Email - msandlerespi@umass.edu
-  - LinkedIn - https://www.linkedin.com/in/msandlerespinosa
-  - Website - https://www.miguels-dev.studio
+👋 Hi, I’m Miguel Sandler-Espinosa! I am a highly interdisciplinary computer scientist and musician interested in exploring how music, technology, and environment can interface and interact. Technology has, in recent years, been making it more difficult for people to connect with one another in real life; in the long term, I hope to create a piece of technology that helps to remedy that.
+
+📫 Check me out!
+  LinkedIn - https://www.linkedin.com/in/msandlerespinosa
+  Website - https://www.miguelsandlerespinosa.com
